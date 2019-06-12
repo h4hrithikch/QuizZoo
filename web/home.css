@@ -1,0 +1,45 @@
+﻿h1{
+color:red;
+background-color:black;
+border:2px solid red;
+padding:15px;
+
+}
+
+
+ul{
+color: white;
+list-style-type: none;
+line-height:50px;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:black;
+}
+
+li{
+float: left;
+}
+
+li a{
+color:white;
+display: #e29046;
+padding: 30px;
+text-decoraton: none;
+
+}
+
+li a:hover
+{
+background-color:red;
+}
+
+body{
+color:black;
+background-color:#e29046;
+}
+
+img{
+border:2px solid black;
+}
+}

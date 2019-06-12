@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese');
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+header
+{
+	background-image: url(file:///C:/Users/HRITHIK%20CHOUHAN/eclipse-workspace/Quizzooo/WebContent/QuizZoo2.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+
+ul{
+color: white;
+list-style-type: none;
+line-height:50px;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:black;
+}
+
+li{
+float: left;
+}
+
+li a{
+color:white;
+display: #e29046;
+padding: 30px;
+text-decoraton: none;
+
+}
+
+
+
+
+
+

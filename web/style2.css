@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese');
+
+
+body
+{
+	margin:0;
+	padding:0;
+	background: url(file:///C:/Users/HRITHIK%20CHOUHAN/eclipse-workspace/Quizzooo/WebContent/QuizZoo2.jpg);
+	background-size:cover;
+	font-family: 'Lobster', cursive;
+}
+
+a
+{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left:12px; 
+}
+
+.title
+{
+	text-align:center;
+	padding:50px 0 20px;
+}
+
+.title h1
+{
+	margin:0;
+	padding:0;
+	color: #5B2114  ;
+	text-transform:uppercase;
+	font-size:36px;
+}
+.container
+{
+	width:50%;
+	height:400px;
+	background:#fff;
+	margin:0 auto;
+	border:2px solid #fff;
+	box-shodow:0 15px 40px rgba(0,0,0,.5);
+}
+.container .left
+{
+	float:left;
+	width:50%;
+	height:400px;
+	background:url(file:///C:/Users/HRITHIK%20CHOUHAN/eclipse-workspace/Quizzooo/WebContent/QuizZoo2.jpg);
+	background-size:cover;
+	box-sizing:border-box;
+}
+.container .right
+{
+		float:right;
+		width:50%;
+		height:400px;
+		box-sizing:border-box;
+		background:#b6dbc0; 
+}
+.formBox
+{
+	width:100%;
+	padding:80px 40px;
+	box-sizing:border-box;
+	height:400px;
+	background:#fff;
+}
+.formBox p
+{
+	margin:0;
+	padding:0;
+	font-width : bold;
+	color:#6d9152;
+	
+}
+.formBox input
+{
+	margin-bottom:20px;
+}
+.formBox input[type="text"],
+.formBox input[type="password"]
+{
+	border:none;
+	bottom:2px solid #a6af13;
+	outline:none;
+	height:40px;
+}
+.formBox input[type="text"]:focus,
+.formBox input[type="password"]:focus
+{
+	border-bottom : 2px solid #262626;
+}
+
+.formBox input[type="submit"]
+{
+	border:none;
+	outline:none;
+	height: 40px;
+	color: #fff;
+	background: #6d9152;
+	cursor:pointer;
+}
+.formBox input[type="submit"]:hover
+
+{
+	/*background: :a6af13;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
